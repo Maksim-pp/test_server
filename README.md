@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# test_server
 Данный тестовый проект был разработан с помощью технологий: React, ReduxToolkit, json-server.
 Проект представляет собой список семинаров, который можно удалять и редактировать
 
